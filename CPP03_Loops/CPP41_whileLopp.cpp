@@ -3,33 +3,34 @@ using namespace std;
 
 /*
 
- for Loop
- 
+ while Loop
+
+ while(codition){
+    
+ }
+
 */
 
 int main()
 {
-    int i;
+    int i = 1;
 
     // for (i = 1; i <= 5 ; i++)
     // {
+    //     if(i <= 5 && i != 4){
+
+    //     }
     //     cout << "You are Learning through itsRIGHTtime with Danishan | Value of i : " << i << endl;
     // }
 
-    // for (int j = 1; j <= 5; j++)
-    // {
-    //     cout << "You are Learning through itsRIGHTtime with Danishan | Value of j : " << j << endl;
-    //     cout << "Value of i " << j;
-    // }
-
-    for (i = 1; i <= 5 && i != 4; i++)
+    while (i != 5) // 1 ! = 5 ---> true |  1 == 5 ---> false  | 5 != 5 --> false | 5 == 5 ---> true
     {
-        if(i <= 5 && i != 4){
-            
-        }
+
         cout << "You are Learning through itsRIGHTtime with Danishan | Value of i : " << i << endl;
+        cout << "Enter the value of i : ";
+        cin >> i;
     }
-} 
+}
 
 /*
 

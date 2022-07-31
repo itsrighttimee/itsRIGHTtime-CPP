@@ -22,7 +22,7 @@ int main()
     cout << sum1 << "  " << sum2 << endl  // 20    20
          << endl;
 
-    num2 = 100;
+    num2 = 100; 
     sum2 = 200;
 
     cout << num1 << "  " << num2 << endl; // 10    100
