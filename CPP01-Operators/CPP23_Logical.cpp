@@ -16,7 +16,7 @@
 
      ---> And  ------------------>  &&  ******> Give ans true when all Values are true
      ---> or  ------------------->  ||  ******> Give ans false when all values are false
-     ---> noto ------------------>  !   ******> if we give true it make that false
+     ---> not ------------------>  !   ******> if we give true it make that false
                                                 if we give false it make that true
 
 
