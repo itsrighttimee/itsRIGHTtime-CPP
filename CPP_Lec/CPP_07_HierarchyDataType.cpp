@@ -8,10 +8,10 @@
             User Defined              In-Build Type                Derived Type
                 |                      or Primitive                    |
                 |                         |                            |
-             structure                    |                          Array
-             union                     Integer                       function
-             class                     Character                     pointer
-             enumeration               Floating Point                reference
+            structure                     |                          Array
+            union                      Integer                       function
+            class                      Character                     pointer
+            enumeration                Floating Point                reference
                                        Double floating point
                                        Void
                                        Wide Character
